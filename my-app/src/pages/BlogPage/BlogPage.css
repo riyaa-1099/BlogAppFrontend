@@ -1,0 +1,33 @@
+.eachblog{
+    width: 60%;
+    border:2px solid gray;
+    margin:2% auto;
+border-radius:5%;
+background-color:rgb(201, 232, 249) ;
+}
+
+button{
+    width: 20%;
+    border: 1px solid rgb(116, 116, 244);
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+}
+h1{
+    margin-bottom: 50px;
+}
+img{
+    width:70%;
+    margin: 2%;
+}
+.pagination{
+    display: flex;
+    padding: 2%;
+    margin: 2%;
+    justify-content: center;
+}
+.pagination button{
+    width: max-content;
+    padding: 5px;
+    margin: 0% 12px;
+}
